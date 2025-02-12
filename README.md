@@ -43,7 +43,7 @@ En resumen, el objetivo de este proyecto es un entorno donde desarrollaremos y e
     Ejecuta node --version para verificar la versión de Node.js
     Ejecuta npm -v para verificar la versión de npm
 
-4. Procedemos a clonar el repositorio https://github.com/jmoralvi/Cypress_exercise.git
+4. Procedemos a clonar el repositorio: git clone https://github.com/jmoralvi/Cypress_exercise.git
 
 # Tareas posteriores despues de clonar el repositorio
 1. Una vez clonado el repositorio abres la carpeta del repositorio clonado con VSCode.
