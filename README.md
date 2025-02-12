@@ -1,5 +1,13 @@
 # Introducción 
-Este proyecto se ha creado para montar una prueba de concepto de como comenzar a relizar las pruebas end to end o API para XXXXXXX usando Cypress.
+Este proyecto se ha creado para realizar un ejercicio solicitado:
+
+Debes realizar una automatización consistente en:
+1.	Buscar en Google la palabra “automatización”
+2.	Buscar el link de la Wikipedia resultante
+3.	Comprobar en qué año se hizo el primer proceso automático
+4.	Realizar un screenshot de la página de la Wikipedia
+
+Nota: Se ejecuta el proyecto hasta evidenciar que Cypress no puede superar CAPTCHA de manera automática, ya que los CAPTCHAs están diseñados específicamente para evitar la automatización y garantizar que un usuario real esté interactuando con la página
 
 Cypress es una herramienta de prueba de extremo a extremo (end-to-end) para aplicaciones web modernas. Permite a los QA, desarrolladores y a todo aquel que quiera escribir, ejecutar y depurar pruebas automatizadas en entorno controlado que simula la interacción de un usuario real con la aplicación.
 
@@ -21,7 +29,7 @@ En resumen, el objetivo de este proyecto es un entorno donde desarrollaremos y e
      * Abre tu terminal
      * Ejecuta los siguientes comandos:
         git config --global user.name "YYYYYYYYYYY"
-        git config --global user.mail YYYYYYYYYYY@babelgroup.com
+        git config --global user.mail YYYYYYYYYYY@yyyyyyyy.com
  * Verificar Configuración
      Ejecutando git config --list para confirmar que la configuración se ha aplicado correctamente.
 
@@ -35,7 +43,7 @@ En resumen, el objetivo de este proyecto es un entorno donde desarrollaremos y e
     Ejecuta node --version para verificar la versión de Node.js
     Ejecuta npm -v para verificar la versión de npm
 
-4. Procedemos a clonar el repositorio https://github.com/jenisqatester/ExamplesCypress 
+4. Procedemos a clonar el repositorio https://github.com/jmoralvi/Cypress_exercise.git
 
 # Tareas posteriores despues de clonar el repositorio
 1. Una vez clonado el repositorio abres la carpeta del repositorio clonado con VSCode.
