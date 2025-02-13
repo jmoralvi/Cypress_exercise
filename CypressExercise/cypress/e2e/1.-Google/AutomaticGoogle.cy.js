@@ -4,7 +4,6 @@ describe('test_name', function() {
     cy.visit('/');
     cy.get('#L2AGLb').click()
     cy.get('#APjFqb').type('automatización').click()
-    cy.wait(500)
     cy.get('#jZ2SBf > .wM6W7d > span').click()
 
     // Paso 2: Encontrar el enlace de Wikipedia
